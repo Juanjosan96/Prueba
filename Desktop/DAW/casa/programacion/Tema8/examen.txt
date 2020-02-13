@@ -1,0 +1,7 @@
+crear metodo y saber llamar a otro ya creada, arrays doble no exactos
+mirar doble rotacion con datos actualizados
+
+sorteo
+
+traductor, aparece frases, con unos parametros dado, comparar y salir si habla o no
+boletin 2 pregunta 5
